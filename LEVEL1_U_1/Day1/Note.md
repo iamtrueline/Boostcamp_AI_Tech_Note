@@ -68,10 +68,10 @@
   - 원점에서부터의 거리.
   - L1-노름은 각 성분의 변화량의 절댓값을 모두 더한 것.
   - L2-노름은 피타고라스 정리를 이용해 유클리드 거리를 계산한 것. (각 성분의 변화량 제곱의 합의 1/2승)
-<p align="center"><img src="././././images/day01_img00.PNG" alt="노름 계산식"></p>
+<p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day01_img00.PNG" alt="노름 계산식"></p>
 
   - 노름 종류에 따라 기하학적 성질이 달라진다.
-<p align="center"><img src="././././images/day01_img01.PNG" alt="노름 종류에 따른 기하학적 성질"></p>
+<p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day01_img01.PNG" alt="노름 종류에 따른 기하학적 성질"></p>
 
   - 두 벡터 사이 거리는 벡터의 뺄셈을 이용하여 구한다.
   - 두 벡터 사이 거리는 제2 코사인 법칙으로 구한다. (내적) Proj(x)의 길이 = ||x||cosθ
@@ -107,7 +107,7 @@
 # :pencil2: Doodle
 
   - 프리코스내용과 같은 강의. 파이썬 기본 문법보다 파이썬만의 고유 특성, 함수 작성 권장 가이드라인에 집중하여 다시 한번 훑었다. 반면 선형대수는 아무리 봐도 모자람이 없다. 본 지 벌써 몇년 짼데 아직도 어색하다. 아마 영원히 그럴 것. 기존엔 수기로만 작성했던 식이지만 더 빠른 답을 낼 겸, 파이썬 라이브러리를 정확하게 사용하는 방법도 익힐 겸 코드로 작성하며 확인했다. 오늘의 끝은 몬드리안.
-<p align="center"><img src="././././images/Piet_Mondrian_1942_Broadway_Boogie_Woogie.jpg" alt="Piet Mondrian, <Broadway Boogie Woogie>, 1942-43. Oil on canvas, 127x127cm."></p>
+<p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/Piet_Mondrian_1942_Broadway_Boogie_Woogie.jpg"></p>
 <p align="center">Piet Mondrian, &ltBroadway Boogie Woogie&gt, 1942-43. Oil on canvas, 127x127cm.</p>
   
   - Day 1 마침.
