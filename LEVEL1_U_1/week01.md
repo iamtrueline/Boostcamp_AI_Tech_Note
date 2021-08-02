@@ -1,4 +1,4 @@
-# :notebook_with_decorative_cover: Note
+# :notebook_with_decorative_cover: Study bundle
 
 [>> Day 1](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day1 "Day 1")
 
