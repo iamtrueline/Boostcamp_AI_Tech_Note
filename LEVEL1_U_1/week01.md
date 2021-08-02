@@ -1,4 +1,9 @@
-# Weekly Contents
+# :notebook_with_decorative_cover: Note
+
+[>> Day 1](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day1 "Day 1")
+
+
+# :date: Weekly Contents
 ## Python & AI Math
 ### Overview
 - [x] [Python Basics for AI & AI Math_Overview](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day1/Note.md "Day1 Note")
