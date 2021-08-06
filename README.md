@@ -1,3 +1,6 @@
 # Boostcamp_AI_Tech_Note
 
-부스트캠프 AI Tech 2기 개인 학습 기록을 위한 레포지토리입니다.
+Repository for my study note :: Boostcamp AI Tech
+Click to view notes.
+
+[<p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/week01.jpg" alt="week 01"></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/week01.md "week 01")
