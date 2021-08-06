@@ -1,5 +1,7 @@
 # :notebook_with_decorative_cover: Daily Study Bundle
 
+*일일 번들 구성 : 노트(Note.md), 피어세션(Peersession.md), 과제 코드, 그리고 퀴즈 및 풀이*
+
 [🍈 Day 1](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day1 "Day 1") : 파이썬 AI 개발 환경 준비하기 | 파이썬 기초 문법 | 벡터가 뭐예요? | 행렬이 뭐예요? || As1.Basic Math, As2.Text Processing 1, As3.Text Processing 2 || Qz1, Qz2, Qz3
 
 [🍑 Day 2](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day2 "Day 2") : 파이썬 기초 문법 II | 경사하강법 (순한맛) | 경사하강법 (매운맛) | 딥러닝 학습방법 이해하기 | 확률론 맛보기 || As4.Baseball || Qz4, Qz5
