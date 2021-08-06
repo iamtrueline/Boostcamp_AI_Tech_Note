@@ -8,10 +8,12 @@
 
 [🍓 Day 4](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day4 "Day 4") : 파이썬으로 데이터 다루기 | 베이즈 통계학 맛보기 | CNN 첫걸음 | RNN 첫걸음 || Op-As1.Gradient Descent || Qz8
 
+[🍐 Day 5](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day5 "Day 5") : Numpy 기초 | Pandas 기초 || Op-As2.Backpropagation, Op-As3.Maximum Likelihood Estimation || Qz9
+
 # :date: Weekly Contents
 ## Python & AI Math
 ### Overview
-- [x] [Python Basics for AI & AI Math_Overview](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day1/Note.md "Day1 Note")
+- [x] Python Basics for AI & AI Math_Overview
 ### [기초 복습] Python Basics for AI
 - [x] [(Python 1-1강) Basic computer class for newbies](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day1/Note.md "Day1 Note")
 - [x] [(Python 1-2강) 파이썬 개요](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day1/Note.md "Day1 Note")
@@ -26,9 +28,9 @@
 - [x] [(Python 4-2강) Module and Project](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day3/Note.md "Day3 Note")
 - [x] [(Python 5-1강) File / Exception / Log Handling](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day4/Note.md "Day4 Note")
 - [x] [(Python 5-2강) Python data handling](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day4/Note.md "Day4 Note")
-- [ ] (Python 6강) numpy
-- [ ] (Python 7-1강) pandas I
-- [ ] (Python 7-2강) pandas II
+- [x] [(Python 6강) numpy](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day5/Note.md "Day5 Note")
+- [x] [(Python 7-1강) pandas I](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day5/Note.md "Day5 Note")
+- [x] [(Python 7-2강) pandas II](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day5/Note.md "Day5 Note")
 ### [기초 복습] AI Math
 - [x] [(AI Math 1강) 벡터가 뭐예요?](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day1/Note.md "Day1 Note")
 - [x] [(AI Math 2강) 행렬이 뭐예요?](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day1/Note.md "Day1 Note")
@@ -50,22 +52,22 @@
 - [x] [[필수 과제 5] Morsecode](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day3/Assignment_5_Morsecode.py "Day3 As5")
 ## [필수 퀴즈]
 ### AI Math: 벡터, 행렬, 경사하강법
-- [x] [필수 퀴즈] AI Math 1강 퀴즈 - 벡터 1~5
-- [x] [필수 퀴즈] AI Math 2강 퀴즈 - 행렬 1~5
-- [x] [필수 퀴즈] AI Math 3, 4강 퀴즈 - 경사하강법 1~5
+- [x] [[필수 퀴즈] AI Math 1강 퀴즈 - 벡터 1~5](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day1/Quiz01.md "Day1 Qz1")
+- [x] [[필수 퀴즈] AI Math 2강 퀴즈 - 행렬 1~5](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day1/Quiz02.md "Day1 Qz2")
+- [x] [[필수 퀴즈] AI Math 3, 4강 퀴즈 - 경사하강법 1~5](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day1/Quiz03.md "Day1 Qz3")
 ### AI Math: 딥러닝 학습방법 이해하기, 확률론 맛보기
-- [x] [필수 퀴즈] AI Math 5강 퀴즈 - 딥러닝 학습방법 이해하기 1~5
-- [x] [필수 퀴즈] AI Math 6강 퀴즈 - 확률론 맛보기 1~5
+- [x] [[필수 퀴즈] AI Math 5강 퀴즈 - 딥러닝 학습방법 이해하기 1~5](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day2/Quiz04.md "Day2 Qz4")
+- [x] [[필수 퀴즈] AI Math 6강 퀴즈 - 확률론 맛보기 1~5](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day2/Quiz05.md "Day2 Qz5")
 ### AI Math: 통계학 맛보기, 베이즈 통계학 맛보기, CNN 첫걸음
-- [x] [필수 퀴즈] AI Math 7강 퀴즈 - 통계학 맛보기 1~5
-- [x] [필수 퀴즈] AI Math 8강 퀴즈 - 베이즈 통계학 맛보기 1~5
-- [ ] [필수 퀴즈] AI Math 9강 퀴즈 - CNN 첫걸음 1~5
+- [x] [[필수 퀴즈] AI Math 7강 퀴즈 - 통계학 맛보기 1~5](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day3/Quiz06.md "Day3 Qz6")
+- [x] [[필수 퀴즈] AI Math 8강 퀴즈 - 베이즈 통계학 맛보기 1~5](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day3/Quiz07.md "Day3 Qz7")
+- [x] [[필수 퀴즈] AI Math 9강 퀴즈 - CNN 첫걸음 1~5](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day4/Quiz08.md "Day4 Qz8")
 ### AI Math: RNN 첫걸음
-- [ ] [필수 퀴즈] AI Math 10강 퀴즈 - RNN 첫걸음 1~5
+- [x] [[필수 퀴즈] AI Math 10강 퀴즈 - RNN 첫걸음 1~5](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day5/Quiz09.md "Day5 Qz9")
 ## [선택 과제]
 ### Gradient Descent, Backpropagation, Maximum Likelihood Estimate
 - [x] [[선택 과제 1] Gradient Descent](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day4/Optional_Assignment_1_Gradient%20Descent.ipynb "Day4 Op-As1")
-- [ ] [선택 과제 2] Backpropagation
-- [ ] [선택 과제 3] Maximum Likelihood Estimate
+- [x] [[선택 과제 2] Backpropagation](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day5/Optional_Assignment_2_Backpropagation.ipynb "Day5 Op-As2")
+- [x] [[선택 과제 3] Maximum Likelihood Estimate](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day5/Optional_Assignment_3_Maximum%20Likelihood%20Estimation(MLE).ipynb "Day5 Op-As3")
 ## [보충 자료] Python & AI Math
-- [ ] 추가학습자료 - 교재 및 강의
+- [x] 추가학습자료 - 교재 및 강의
