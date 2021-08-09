@@ -76,3 +76,5 @@
 
 <p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/Claude_Monet_1875_Woman_with_a_Parasol_Madame_Monet_and_Her_Son.jpg"></p>
 <p align="center">Claude Monet, &ltWoman with a Parasol – Madame Monet and Her Son&gt, 1875. Oil on canvas, 100x81cm.</p>
+
+- Day 1 마침.
