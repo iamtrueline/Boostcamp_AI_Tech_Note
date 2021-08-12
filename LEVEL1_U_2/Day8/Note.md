@@ -41,7 +41,7 @@
 # ✏️ Doodle
 
 - 내용이 아주 깊진 않지만 완벽하게 소화하려면 시간이 필요하다. 많이 들어봤던 연사, 이고잉님의 깃허브 강의도 함께 있던 날. 충분한 소화를 했는지 모르지만 노력해야지. 몸이 너무 안 좋아 노트 기록은 잠시 축소. 내일 힘내. 오늘의 끝은 보티첼리.
-<p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/Raffaello_1509_The_School_of_Athens_.jpg"></p>
+<p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/Sandro_Botticelli_1484_The_Birth_of_Venus.jpg"></p>
 <p align="center">Sandro Botticelli, &ltThe Birth of Venus&gt, 1484-1486. Tempera on canvas, 172.5x278.9cm.</p>
 
 - Day 8 마침.
