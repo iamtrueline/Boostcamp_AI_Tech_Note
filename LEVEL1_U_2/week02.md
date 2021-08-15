@@ -42,7 +42,7 @@
 ### 딥러닝 기본
 - [x] [[필수 과제 6] MLP](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_2/Day6/Assignment_6_MLP.ipynb "Day6 As6")
 ### 최적화
-- [x] [[필수 과제 7] Optimization](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_2/Day7/Assignment_7_Optivization.ipynb "Day7 As7")
+- [x] [[필수 과제 7] Optimization](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_2/Day7/Assignment_7_Optimization.ipynb "Day7 As7")
 ### CNN (Convolutional Neural Network)
 - [x] [[필수 과제 8] CNN](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_2/Day8/Assignment_8_CNN.ipynb "Day8 As8")
 ### RNN (Recurrent Neural Network)
