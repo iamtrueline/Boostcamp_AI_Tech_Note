@@ -19,6 +19,11 @@
 - [x] [(2-1) Bar Plot 사용하기](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_3/Day11/Note.md "Day11 Note")
 - [x] [(2-2) Line Plot 사용하기](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_3/Day13/Note.md "Day13 Note")
 - [x] [(2-3) Scatter Plot 사용하기](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_3/Day13/Note.md "Day13 Note")
+### 차트의 요소
+- [x] [(3-1) Text 사용하기](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_3/Day14/Note.md "Day14 Note")
+- [x] [(3-2) Color 사용하기](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_3/Day14/Note.md "Day14 Note")
+- [x] [(3-3) Facet 사용하기](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_3/Day14/Note.md "Day14 Note")
+- [x] [(3-4) More Tips](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_3/Day14/Note.md "Day14 Note")
 ## PyTorch
 ### Overview
 - [x] PyTorch Overview
