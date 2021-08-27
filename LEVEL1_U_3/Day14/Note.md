@@ -1,6 +1,6 @@
 # 📙 Note
 
-### Text 사용하기
+### 차트의 요소 3-1 ~ 3-4강
 
 - Text in Viz
 
@@ -19,8 +19,6 @@
   - Alignment : ha, va, rotation, multialignment.
   - Advanced : bbox.
   - 최대한 신속하고 정확하게 인식할 수 있는 가시 정보가 목표.
-
-### Color 사용하기
 
 - Color in Viz
 
@@ -47,8 +45,6 @@
   - 강조와 대비. 명도, 색상, 채도, 보색 대비를 적절히 이용하기.
   - 색각 이상에 대비. 적절한 색 배합이 이상적이지만 불가하다면 큐브 배치처럼 각도를 다르게 하는 등 대안 채용.
 
-### Facet 사용하기
-
 - Facet?
 
   - 분할. 화면 상에 View를 분할 및 추가하여 다양한 관점을 전달하기. 같은 데이터셋에 서로 다른 인코딩을 통해 다른 인사이트를 제공하여 같은 방법으로 동시에 여러 피쳐를 보거나 큰 틀에서 보이지 않는 세세한 부분들을 보기에 용이.
@@ -63,6 +59,12 @@
   - Subplot : plt.subplot(), plt.figure() + fig.add_subplot(), plt.subplots()
   - Grid Spec : fig.add_grid_spec(), fig.subplot2grid()
   - Inner Subplot : ax.inset_axes(), make_axes_locatable(ax)
+
+- More Tips
+
+  - Grid는 심플하게. 기본 그리드 외에도 사선, 방사형 등 다양한 형태가 있다.
+  - 그래프의 이해를 돕기 위해 선, 면을 추가할 수도 있다.
+  - 웹의 css처럼 설정을 한 번에 바꿀 수 있는 여러 테마도 있다. (ex. fivefhirtyeight)
 
 ### Multi-GPU 학습
 
