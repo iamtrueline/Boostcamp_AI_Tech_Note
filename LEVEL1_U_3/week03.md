@@ -8,7 +8,7 @@
 
 [🥪 Day 13](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_3/Day13 "Day 13") : 모델 불러오기 | Monitoring tools for PyTorch | 기본 차트의 사용 2-2 ~ 2-3강 || As12.Custom Dataset 및 Custom DataLoader 생성
 
-[🌯 Day 14](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_3/Day14 "Day 14") : Multi-GPU 학습 | Hyperparameter Tuning | PyTorch Troubleshooting || Op-As7.Transfer Learning + Parameter Tuning
+[🌯 Day 14](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_3/Day14 "Day 14") : 차트의 요소 3-1 ~ 3-4강 | Multi-GPU 학습 | Hyperparameter Tuning | PyTorch Troubleshooting || Op-As7.Transfer Learning + Parameter Tuning
 
 # :date: Weekly Contents
 ## DL Basic
