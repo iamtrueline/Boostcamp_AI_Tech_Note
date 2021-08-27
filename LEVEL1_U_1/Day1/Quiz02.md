@@ -22,7 +22,7 @@
 - 답 : 4
 - 해설 : 행렬 4와 곱하면 단위행렬이 나온다.
 
-### 다음 보기 중 행렬  X 의 올바른 무어-펜로즈 역행렬을 고르시오.
+### 5. 다음 보기 중 행렬  X 의 올바른 무어-펜로즈 역행렬을 고르시오.
 <p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day01_img04.PNG" alt="보기"></p>
 
 - 답 : 3
