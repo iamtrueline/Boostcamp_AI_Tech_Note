@@ -1,16 +1,18 @@
+[<p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/week04.jpg" alt="week 02"></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/week04.md "week 04")
+
 # :notebook_with_decorative_cover: Daily Study Bundle
 
 *일일 번들 구성 : 노트(Note.md), 피어세션(Peersession.md), 과제 및 개인 코드와 풀이*
 
-[🌸 Day 15](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day15 "Day 15") : Competition with AI Stages! | Image Classification & EDA || SM1.EDA
+🌸 Day 15 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day15/Note.md "Day 15 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day15 "Day 15") Competition with AI Stages! | Image Classification & EDA || SM1.EDA
 
-[💮 Day 16](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day16 "Day 16") : Dataset | Data Generation | Seaborn 소개 || SM2.Dataset / Data Generation
+💮 Day 16 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day16/Note.md "Day 16 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day16 "Day 16") Dataset | Data Generation | Seaborn 소개 || SM2.Dataset / Data Generation
 
-[🌺 Day 17](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day17 "Day 17") : Model 1 | Model 2 | Seaborn 기초 || SM3.Model
+🌺 Day 17 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day17/Note.md "Day 17 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day17 "Day 17") Model 1 | Model 2 | Seaborn 기초 || SM3.Model
 
-[🏵️ Day 18](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day18 "Day 18") : raining & Inference 1 | Training & Inference 2 || SM4.Training & Inference || BerrydumbResnet50
+🏵️ Day 18 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day18/Note.md "Day 18 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day18 "Day 15") raining & Inference 1 | Training & Inference 2 || SM4.Training & Inference || BerrydumbResnet50
 
-[💐 Day 19](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day19 "Day 19") : Ensemble | Experiment Toolkits & Tips | Seaborn 심화 || SM5.Ensemble / Experiment Toolkits
+💐 Day 19 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day19/Note.md "Day 19 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/Day19 "Day 19") Ensemble | Experiment Toolkits & Tips | Seaborn 심화 || SM5.Ensemble / Experiment Toolkits
 
 # :date: Weekly Contents
 ## 이미지 분류
