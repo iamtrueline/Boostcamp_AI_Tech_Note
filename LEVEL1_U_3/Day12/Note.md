@@ -44,3 +44,5 @@
 <p align="center">	Johannes Vermeer, &ltGirl with a Pearl Earring&gt, 1665. Oil on canvas, 44.5x39cm.</p>
 
 - Day 12 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/back.png" width ="50px" />](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_3/Day11/Note.md "Day11 Note")   [<img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_3/Day13/Note.md "Day13 Note")
