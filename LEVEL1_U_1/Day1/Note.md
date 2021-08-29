@@ -116,3 +116,5 @@
 <p align="center">Piet Mondrian, &ltBroadway Boogie Woogie&gt, 1942-43. Oil on canvas, 127x127cm.</p>
   
   - Day 1 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day2/Note.md "Day2 Note")
