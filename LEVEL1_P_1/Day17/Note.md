@@ -51,3 +51,5 @@
 <p align="center">Wassily Kandinsky, &ltComposition 7&gt, 1913. Oil on canvas, 200.6x302.2cm.</p>
 
 - Day 17 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/back.png" width ="50px" />](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_P_1/Day16/Note.md "Day16 Note")   [<img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_P_1/Day18/Note.md "Day18 Note")
