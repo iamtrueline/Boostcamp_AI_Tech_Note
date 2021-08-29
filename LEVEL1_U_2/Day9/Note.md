@@ -3,12 +3,14 @@
 ### Modern CNN - 1x1 convolution의 중요성
 
 - ILSVRC
+
   - ImageNet Large-Scale Visual Recogmnition Challenge
   - Classification / Detection / Localization / Segmentation
   - 백만 개가 넘는 이미지, 천여 개의 다른 카테고리, 트레이닝 세트 : 456,567개 이미지.
 <p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day09_img00.PNG" alt="연도별 Error Rate"></p>
 
 - AlexNet (2011년도 우승)
+
   - 처음 활용 당시에 GPU가 부족, 최대한 많은 파라미터를 넣고 싶어서 네트워크를 두개로 나눔.
   - 5 Convolutional layers, 3 Dense layers
   - Rectified Linear Unit(ReLU) activation : Preserves properties of linear models(0 밑으로 0, 이상으론 상승) / Easy to optimize with gradient descent / Good generalization / Overcome the vanishing gradient problem
@@ -175,3 +177,5 @@
 <p align="center">Henri Matisse, &ltDance&gt, 1910. Oil on canvas, 260x391cm.</p>
 
 - Day 9 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/back.png" width ="50px" />](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_2/Day8/Note.md "Day8 Note")   [<img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_2/Day10/Note.md "Day10 Note")
