@@ -201,3 +201,5 @@
 <p align="center">Alphonse Maria Mucha, &ltDecorative panel from The Seasons - Summer&gt, 1896. Oil on panel, 103x54cm.</p>
 
 - Day 2 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/back.png" width ="50px" />](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day1/Note.md "Day1 Note")   [<img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day3/Note.md "Day3 Note")
