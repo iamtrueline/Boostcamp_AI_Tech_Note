@@ -149,3 +149,5 @@
 <p align="center">Vincent van Gogh, &ltWheat Field with Crows&gt, 1890. Oil on canvas, 50.2x103cm.</p>
 
 - Day 5 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/back.png" width ="50px" />](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day4/Note.md "Day4 Note")   [<img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_2/Day6/Note.md "Day6 Note")
