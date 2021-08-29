@@ -4,12 +4,14 @@
 ### 파이썬 AI 개발 환경 준비하기 :: [기초 복습] Python Basics for AI 1-1강 ~ 1-3강
 
 - 기본적인 컴퓨터 시스템 From a Software Aspects
+
   - 컴퓨터 OS(Operating System) : 운영체제. 프로그램 동작을 위한 구동 환경.
   - 파일 시스템 : OS에서 파일을 저장하는 트리구조 저장 체계. 파일은 디렉토리와 파일로 구분.
   - 터미널 환경 : 콘솔창. CLI 화면.
   - 기본 윈도우 CMD 명령어(shell 명령어) : CD(cd), CLS(clear), COPY(cp), DEL(rm), DIR(ls)
 
 - 파이썬 개요
+
   - 1991년 귀도 반 로섬이 발표했다.
   - 플랫폼 독립적인 인터프리터 언어 and 객체 지향 and 동적 타이핑 언어. 초기엔 C로 구현했다.
   - 동적 타이핑 언어이므로 프로그램 실행 시점에 데이터에 대한 타입을 결정.
@@ -17,6 +19,7 @@
   - Life is short. You need Python.
 
 - 파이썬 코딩 환경 구성
+
   - Miniconda and VSCode
 
 ### 파이썬 기초 문법 :: [기초 복습] Python Basics for AI 2-1강 ~ 2-4강
@@ -70,9 +73,11 @@
   - L2-노름은 피타고라스 정리를 이용해 유클리드 거리를 계산한 것. (각 성분의 변화량 제곱의 합의 1/2승)
 <p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day01_img00.PNG" alt="노름 계산식"></p>
 
+-
   - 노름 종류에 따라 기하학적 성질이 달라진다.
 <p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day01_img01.PNG" alt="노름 종류에 따른 기하학적 성질"></p>
 
+-
   - 두 벡터 사이 거리는 벡터의 뺄셈을 이용하여 구한다.
   - 두 벡터 사이 거리는 제2 코사인 법칙으로 구한다. (내적) Proj(x)의 길이 = ||x||cosθ
 
