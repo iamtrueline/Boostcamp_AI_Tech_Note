@@ -65,3 +65,5 @@
 <p align="center">Tintoretto, &ltPenitent Magdalene&gt, 1598-1602. Oil on canvas, 114.5x92cm.</p>
 
 - Day 19 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/back.png" width ="50px" />](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_P_1/Day18/Note.md "Day18 Note")   [<img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_P_2/Day20/Note.md "Day20 Note")
