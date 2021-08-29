@@ -45,3 +45,5 @@
 <p align="center">Sandro Botticelli, &ltThe Birth of Venus&gt, 1484-1486. Tempera on canvas, 172.5x278.9cm.</p>
 
 - Day 8 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/back.png" width ="50px" />](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_2/Day7/Note.md "Day7 Note")   [<img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_2/Day9/Note.md "Day9 Note")
