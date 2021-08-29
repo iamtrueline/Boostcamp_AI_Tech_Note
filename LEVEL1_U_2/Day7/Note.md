@@ -83,3 +83,5 @@
 <p align="center">Raffaello, &ltThe School of Athens&gt, 1509-1511. Fresco, 500x770cm.</p>
 
 - Day 7 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/back.png" width ="50px" />](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_2/Day6/Note.md "Day6 Note")   [<img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_2/Day8/Note.md "Day8 Note")
