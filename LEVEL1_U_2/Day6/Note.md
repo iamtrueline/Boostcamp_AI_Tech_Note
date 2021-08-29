@@ -18,16 +18,16 @@
 
 - 딥러닝 역사
 
- - 2012 > AlexNet :  2012년에 이미지 인식 대회 ILSVRC(ImageNet Large Scale Visual Recognition Challenge) 우승을 한 CNN. 딥러닝을 활용해 첫 번째로 수상했음.
- - 2013 > DQN : 딥마인드가 강화학습으로 아타리 아케이드 게임을 풀 때 사용한 방식.
- - 2014 > Encoder / Decoder
- - 2014 > Adam Optimizer : 학습 시 가장 무난하게 사용할 수 있는 Optimizer. 특히 사용할 수 있는 자원이 한정적일 때.
- - 2015 > Generative Adversarial Network(GAN) : 비지도 학습에 사용되는 인공지능 알고리즘.
- - 2015 > Residual Network : 네트워크를 깊게 쌓을 수 있도록 만들어준 구조.
- - 2017 > Transformer
- - 2018 > BERT (fine-tuned NLP models) : Bidirection을 사용하는 NLP 모델.
- - 2019 > BIG Language Models : 1,750억 개의 파라미터로 구성된 모델.
- - 2020 > Self Supervised Learning : 비지도 학습.
+  - 2012 > AlexNet :  2012년에 이미지 인식 대회 ILSVRC(ImageNet Large Scale Visual Recognition Challenge) 우승을 한 CNN. 딥러닝을 활용해 첫 번째로 수상했음.
+  - 2013 > DQN : 딥마인드가 강화학습으로 아타리 아케이드 게임을 풀 때 사용한 방식.
+  - 2014 > Encoder / Decoder
+  - 2014 > Adam Optimizer : 학습 시 가장 무난하게 사용할 수 있는 Optimizer. 특히 사용할 수 있는 자원이 한정적일 때.
+  - 2015 > Generative Adversarial Network(GAN) : 비지도 학습에 사용되는 인공지능 알고리즘.
+  - 2015 > Residual Network : 네트워크를 깊게 쌓을 수 있도록 만들어준 구조.
+  - 2017 > Transformer
+  - 2018 > BERT (fine-tuned NLP models) : Bidirection을 사용하는 NLP 모델.
+  - 2019 > BIG Language Models : 1,750억 개의 파라미터로 구성된 모델.
+  - 2020 > Self Supervised Learning : 비지도 학습.
 
 ### 뉴럴 네트워크 - MLP (Multi-Layer Perceptron)
 
@@ -78,3 +78,5 @@
 <p align="center">Claude Monet, &ltWoman with a Parasol – Madame Monet and Her Son&gt, 1875. Oil on canvas, 100x81cm.</p>
 
 - Day 6 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/back.png" width ="50px" />](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_1/Day5/Note.md "Day5 Note")   [<img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_2/Day7/Note.md "Day7 Note")
