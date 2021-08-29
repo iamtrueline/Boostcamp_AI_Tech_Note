@@ -57,3 +57,5 @@
 <p align="center">Gustav Klimt, &ltJudith and the Head of Holofernes&gt, 1901. Oil on canvas, 84x42cm.</p>
 
 - Day 15 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/back.png" width ="50px" />](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_U_3/Day14/Note.md "Day14 Note")   [<img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_P_1/Day16/Note.md "Day16 Note")
