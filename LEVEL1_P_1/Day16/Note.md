@@ -61,3 +61,5 @@
 <p align="center">Paul Cezanne, &ltStill Life with Apples and Peaches&gt, 1905. Oil on canvas, 81x100.5cm.</p>
 
 - Day 16 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/back.png" width ="50px" />](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_P_1/Day15/Note.md "Day15 Note")   [<img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL1_P_1/Day17/Note.md "Day17 Note")
