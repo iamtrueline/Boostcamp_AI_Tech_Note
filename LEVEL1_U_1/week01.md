@@ -1,16 +1,18 @@
+[<p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/week01.jpg" alt="week 04"></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/week01.md "week 01")
+
 # :notebook_with_decorative_cover: Daily Study Bundle
 
 *일일 번들 구성 : 노트(Note.md), 피어세션(Peersession.md), 과제 코드, 그리고 퀴즈 및 풀이*
 
-[🍈 Day 1](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day1 "Day 1") : 파이썬 AI 개발 환경 준비하기 | 파이썬 기초 문법 | 벡터가 뭐예요? | 행렬이 뭐예요? || As1.Basic Math, As2.Text Processing 1, As3.Text Processing 2 || Qz1, Qz2, Qz3
+🍈 Day 1 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day1/Note.md "Day 1 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day1 "Day 1") 파이썬 AI 개발 환경 준비하기 | 파이썬 기초 문법 | 벡터가 뭐예요? | 행렬이 뭐예요? || As1.Basic Math, As2.Text Processing 1, As3.Text Processing 2 || Qz1, Qz2, Qz3
 
-[🍑 Day 2](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day2 "Day 2") : 파이썬 기초 문법 II | 경사하강법 (순한맛) | 경사하강법 (매운맛) | 딥러닝 학습방법 이해하기 | 확률론 맛보기 || As4.Baseball || Qz4, Qz5
+🍑 Day 2 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day2/Note.md "Day 2 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day2 "Day 2") 파이썬 기초 문법 II | 경사하강법 (순한맛) | 경사하강법 (매운맛) | 딥러닝 학습방법 이해하기 | 확률론 맛보기 || As4.Baseball || Qz4, Qz5
 
-[🍋 Day 3](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day3 "Day 3") : 파이썬 객체 지향 프로그래밍 | 통계학 맛보기 || As5.Morsecode || Qz6, Qz7
+🍋 Day 3 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day3/Note.md "Day 3 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day3 "Day 3") 파이썬 객체 지향 프로그래밍 | 통계학 맛보기 || As5.Morsecode || Qz6, Qz7
 
-[🍓 Day 4](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day4 "Day 4") : 파이썬으로 데이터 다루기 | 베이즈 통계학 맛보기 | CNN 첫걸음 | RNN 첫걸음 || Op-As1.Gradient Descent || Qz8
+🍓 Day 4 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day4/Note.md "Day 4 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day4 "Day 4") 파이썬으로 데이터 다루기 | 베이즈 통계학 맛보기 | CNN 첫걸음 | RNN 첫걸음 || Op-As1.Gradient Descent || Qz8
 
-[🍐 Day 5](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day5 "Day 5") : Numpy 기초 | Pandas 기초 || Op-As2.Backpropagation, Op-As3.Maximum Likelihood Estimation || Qz9
+🍐 Day 5 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day5/Note.md "Day 5 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_1/Day5 "Day 5") Numpy 기초 | Pandas 기초 || Op-As2.Backpropagation, Op-As3.Maximum Likelihood Estimation || Qz9
 
 # :date: Weekly Contents
 ## Python & AI Math
