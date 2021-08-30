@@ -1,4 +1,4 @@
-[<p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/week04.jpg" alt="week 02"></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/week04.md "week 04")
+[<p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/week04.jpg" alt="week 04"></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_1/week04.md "week 04")
 
 # :notebook_with_decorative_cover: Daily Study Bundle
 
