@@ -1,16 +1,18 @@
+[<p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/week02.jpg" alt="week 02"></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/week02.md "week 02")
+
 # :notebook_with_decorative_cover: Daily Study Bundle
 
-*일일 번들 구성 : 노트(Note.md), 피어세션(Peersession.md), 과제 코드, 그리고 퀴즈 및 풀이*
+*일일 번들 구성 : 노트(Note.md), 피어세션(Peersession.md), 과제 및 개인 코드와 풀이*
 
-[🌿 Day 6](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day6 "Day 6") : 딥러닝 기본 용어 설명 - Historical review | 뉴럴 네트워크 - MLP (Multi-Layer Perceptron) | Introduction to Visualization || As6.MLP
+🌿 Day 6 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day6/Note.md "Day 6 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day6 "Day 6") 딥러닝 기본 용어 설명 - Historical review | 뉴럴 네트워크 - MLP (Multi-Layer Perceptron) | Introduction to Visualization || As6.MLP
 
-[🍀 Day 7](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day7 "Day 7") : Optimization || As7.Optimization
+🍀 Day 7 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day7/Note.md "Day 7 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day7 "Day 7") Optimization || As7.Optimization
 
-[🎍 Day 8](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day8 "Day 8") : Convolution은 무엇인가? || As8.CNN
+🎍 Day 8 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day8/Note.md "Day 8 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day8 "Day 8") Convolution은 무엇인가? || As8.CNN
 
-[🌱 Day 9](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day9 "Day 9") : Modern CNN - 1x1 convolution의 중요성 | Computer Vision Applications | Sequential Models - RNN(Recurrent Neural Networks) || As9.LSTM || Op-As4.Vision Transformer(ViT), Op-As5.Adversarial Auto Encoder(AAE), Op-As6.Mixture Density Network(MDN)
+🌱 Day 9 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day9/Note.md "Day 9 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day9 "Day 9") Modern CNN - 1x1 convolution의 중요성 | Computer Vision Applications | Sequential Models - RNN(Recurrent Neural Networks) || As9.LSTM || Op-As4.Vision Transformer(ViT), Op-As5.Adversarial Auto Encoder(AAE), Op-As6.Mixture Density Network(MDN)
 
-[☘ Day 10](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day10 "Day 10") : Sequential Models - Transformer | Generative Models 1 || As10.Muti Headed Attention(MHA)
+☘ Day 10 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day10/Note.md "Day 10 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_U_2/Day10 "Day 10") Sequential Models - Transformer | Generative Models 1 || As10.Muti Headed Attention(MHA)
 
 # :date: Weekly Contents
 ## DL Basic
