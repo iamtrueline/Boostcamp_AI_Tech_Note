@@ -12,7 +12,7 @@
 
 🦀 Day 23 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_2/Day23/Note.md "Day 23 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_2/Day23 "Day 23") 대회 마지막, 최종 결과 제출
 
-🦐 Day 24 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_2/Day24/Note.md "Day 24 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_2/Day24 "Day 24") 
+🦐 Day 24 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_2/Day24/Note.md "Day 24 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_2/Day24 "Day 24") 리포트 작성 및 제출
 
 # :date: Weekly Contents
 ### 작성중
