@@ -89,3 +89,5 @@
 <p align="center">Max Ernst, &ltThe Elephant Celebes&gt, 1921. Oil on canvas, 125.4x107.9cm.</p>
 
 - Day 26 마침.
+
+[<p align="center"><img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/back.png" width ="50px" />](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL2_U_1/Day25/Note.md "Day25 Note")   [<img src = "https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/next.png" width ="50px" /></p>](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/LEVEL2_U_1/Day27/Note.md "Day27 Note")
