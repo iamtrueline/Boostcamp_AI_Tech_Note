@@ -84,6 +84,8 @@
   - XML의 대체재로 많이 활용.
   - 파이썬에서 json 모듈을 사용하여 손쉽게 파싱 및 저장 가능.
 
+---
+
 ### 베이즈 통계학 맛보기 :: [기초 복습] AI Math 8강
 
 - 쿨백-라이블러(KL-Divergence) 발산
@@ -116,6 +118,8 @@
   - 인과관계는 데이터 분포의 변화에 강건하지만 높은 예측정확보 보증은 어려움.
   - 인과관계를 알아내기 위해서는 중첩요인(confounding factor)효과를 제거하고 원인에 해당하는 변수만의 인과관계를 계산해야 함. 안정적이고 믿을만한 결과를 위한 필수 과정. 이 과정을 생략하면 가짜 연관성(spurious correlation)이 도출.
 
+---
+
 ### CNN 첫걸음 :: [기초 복습] AI Math 9강
 
 - Convolution 연산 in CNN(Convolutional Neural Network)
@@ -141,6 +145,8 @@
 
   - 커널이 모든 입력 데이터에 공통으로 적용되기 때문에 역전파를 계산할 때도 Convolution 연산이 나온다.
 <p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day04_img06.PNG" alt="Convolution 연산의 역전파"></p>
+
+---
 
 ### RNN 첫걸음 :: [기초 복습] AI Math 10강
 
