@@ -78,6 +78,8 @@
 
   - loadtxt & savetxt : text 데이터를 읽고 저장하는 기능.
 
+---
+
 ### Pandas 기초 :: [기초 복습] Python Basics for AI 7-1 ~ 7-2강
 
 - Pandas
