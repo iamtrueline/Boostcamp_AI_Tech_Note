@@ -34,6 +34,8 @@
   - default arguments : 함수에 넣는 인수가 모자라면 기본 지정된 값으로 연산한다. 당연히 없으면 에러.
   - 왜 쓰는데? : 짧은 코드, 빠른 이해, 높은 효율.
 
+---
+
 ### 경사하강법 (순한맛) :: [기초 복습] AI Math 3강
 
 - 미분(differentiation)
@@ -64,6 +66,8 @@
 
 -
   - 그레디언트 벡터는 한 점에서 극댓값(극솟값)에 가장 빨리 가까워지는 방향으로 구성된다.
+
+---
 
 ### 경사하강법 (매운맛) :: [기초 복습] AI Math 4강
 
@@ -110,6 +114,8 @@
 -
   - 덩치 큰 데이터를 상대하려면 미니 배치로 쪼개는 게 하드웨어적으로 유리. 다만 너무 작게 쪼개면 상대하다가 타임 아웃.
   
+---  
+  
 ### 딥러닝 학습방법 이해하기 :: [기초 복습] AI Math 5강
 
 - 신경망(neural network)
@@ -150,6 +156,8 @@
 <p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day02_img15.PNG" alt="연쇄법칙"></p>
 <p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day02_img16.PNG" alt="연쇄법칙"></p>
 <p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day02_img17.PNG" alt="연쇄법칙"></p>
+
+---
 
 ### 확률론 맛보기 :: [기초 복습] AI Math 6강
 
