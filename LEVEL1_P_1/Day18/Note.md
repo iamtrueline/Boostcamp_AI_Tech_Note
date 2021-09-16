@@ -44,6 +44,8 @@
   - Ranking : MRR, NDCG, MAP
   - 현업에서는 Metric이 미리 설정되어있지 않다. 그러므로 데이터 상태에 따라 적절한 Metric을 선택하는 것이 필요. ex) Class 별로 밸런스가 적절히 분포? -> Accuracy, Class별 밸런스가 좋지 않아서 각 클래스 별로 성능을 잘 낼 수 있는지 확인 필요? -> F1-Score 등.
 
+---
+
 ### Training & Inference 2
 
 - Training
