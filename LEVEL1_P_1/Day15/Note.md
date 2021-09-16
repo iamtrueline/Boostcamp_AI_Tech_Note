@@ -22,6 +22,8 @@
 - Machine Learning Pipeline
 <p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day15_img00.PNG" alt="Machine Learning Pipeline"></p>
 
+---
+
 ### Image Classification & EDA
 
 - EDA(Exploratory Data Analysis)
