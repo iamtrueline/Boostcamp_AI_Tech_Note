@@ -29,6 +29,8 @@
   - 2019 > BIG Language Models : 1,750억 개의 파라미터로 구성된 모델.
   - 2020 > Self Supervised Learning : 비지도 학습.
 
+---
+
 ### 뉴럴 네트워크 - MLP (Multi-Layer Perceptron)
 
 - 신경망
@@ -43,6 +45,8 @@
   - 딥러닝은 신경망을 여러 층 쌓는 것. MLP.
   - Activation functions : 선형 결합 후 비선형 변환을 통해 더 적합한 결과를 도출하기 위해 사용하는 function. (ex. ReLU, Sigmoid)
   - Loss function? 실제값과 예측값 사이의 오차를 줄이는 것이 목표. 이 때, 몇 개 뜨는 이상치의 값을 맞추려하다 보면 전체 결과가 틀어질 수 있음. 문제마다 최적의 Loss function은 다르다. 적절한 것을 적절하게 골라보기.
+
+---
 
 ### Introduction to Visualization 1-1 ~ 1-3강
 
