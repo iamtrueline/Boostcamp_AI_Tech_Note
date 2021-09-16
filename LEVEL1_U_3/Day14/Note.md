@@ -66,6 +66,8 @@
   - 그래프의 이해를 돕기 위해 선, 면을 추가할 수도 있다.
   - 웹의 css처럼 설정을 한 번에 바꿀 수 있는 여러 테마도 있다. (ex. fivefhirtyeight)
 
+---
+
 ### Multi-GPU 학습
 
 - Multi-GPU
@@ -84,6 +86,8 @@
 -
   - 파이토치에서 DataParallel은 단순히 데이터를 분배후 평균을 취하는데, 이 때 GPU 사용 불균형이 발생. 한 GPU에 병목이 발생해 배치 사이즈가 감소한다. 반면 DistributedDataParallel은 각 CPU마다 프로세스를 생성하여 개별 GPU에 할당한다. 기본적으로 DataParallel이나, 개별적으로 연산의 평균을 내는 점이 다르다.
 
+---
+
 ### Hyperparameter Tuning
 
 - Hyperparameter
@@ -99,6 +103,8 @@
 - Ray
 
   - multi-node multi processing 지원 모듈. ML/DL의 병렬 처리를 위해 개발되었고 기본적으로 현재의 분산병렬 ML/DL 모듈의 표준이다. Hyperparameter Search를 위한 다양한 모듈 제공.
+
+---
 
 ### PyTorch Troubleshooting
 
