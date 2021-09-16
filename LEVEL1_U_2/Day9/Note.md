@@ -62,6 +62,8 @@
   - ResNet : skip-connection
   - DenseNet : concatenation
 
+---
+
 ### Computer Vision Applications
 
 - Semantic Segmentation
@@ -113,6 +115,8 @@
   - 이미지 한 장에서 바로 아웃풋. 바운딩 박스 분류 과정 생략.
   - Input image -> divide SxS grid. (물체가 grid 안에 들어가면 detection도 함께) -> B개(ex. 5)의 바운딩 박스 예측. 및 실제 물체가 있는지 판단 + 물체 class(C) 예측 -> tensor = SxS(B^5+C) size.
   - 바운딩 박스 찾기와 클래스 예측이 함께 이루어져서 속도 향상.
+
+---
 
 ### Sequential Models - RNN(Recurrent Neural Networks)
 
