@@ -25,6 +25,8 @@
   - pretrained model을 활용시 모델의 일부분을 고정.
 <p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day13_img00.PNG" alt="pretrained model"></p>
 
+---
+
 ### Monitoring tools for PyTorch
 
 - Tensorboard
@@ -43,6 +45,8 @@
   - 머신러닝 실험을 원활히 지원하기 위한 상용도구.
   - 협업, code versioning, 실험 결과 기록 등 제공.
   - MLOps의 대표적인 툴로 저변 확대 중.
+
+---
 
 ### 기본 차트의 사용 2-2 ~ 2-3강
 
