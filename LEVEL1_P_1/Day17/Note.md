@@ -12,6 +12,8 @@
   - 파라미터 : 모델에 정의되어 있는 modules이 가지고 있는 계산에 쓰일 Parameter. 각 모델 파라미터 들은 data, grad, requires_grad 변수 등을 가지고 있다.
   - Pythorch의 특징(Pythonic)을 잘 알고 있다면 응용과 에러 핸들링이 쉽다.
 
+---
+
 ### Model 2
 
 - Pretrained Model
@@ -36,6 +38,8 @@
 -
   - 학습 데이터가 충분하지 않은 경우 : 유사성이 높다면 마찬가지로 Backbone을 건드리지 않고 트레이닝이 가능. 유사성이 낮다면 이용 어려움. 납득 안되는 결과가 나올 확률이 높다.
 <p align="center"><img src="https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/blob/main/images/day17_img02.PNG" alt="학습 데이터가 충분하지 않은 case"></p>
+
+---
 
 ### 통계와 차트 4-1강
 
