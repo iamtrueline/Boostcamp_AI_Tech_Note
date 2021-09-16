@@ -30,6 +30,8 @@
   - torchvision.transforms : 유용.
   - 모든 과제와 모든 데이터에 무조건 통하는 양약은 없다.
 
+---
+
 ### Data Generation
 
 - Data Feeding
@@ -42,6 +44,8 @@
   - Dataset : VanillaData를 Dataset으로 변환.
   - DataLoader : Dataset을 효율적으로 사용할 수 있도록 관련 기능 추가. 배치 사이즈, num workers, 채널 등.
   - Dataset과 DataLoader는 분리되는 것이 좋다. 재활용(사용)성을 높이기 위해. Dataset는 Vanilla데이터를 원하는 형태로 출력해주는 클래스. DataLoader는 Dataset의 효율을 올리는 게 목적인 유틸.
+
+---
 
 ### 통계와 차트 4-1강
 
