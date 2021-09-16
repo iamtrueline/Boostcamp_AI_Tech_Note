@@ -11,6 +11,8 @@
   - Computational Graph : 연산의 과정을 그래프로 표현한 것. 텐서플로는 그래프를 먼저 정의하고 실행 시점에 feed, 파이토치는 실행을 하면서 그래프를 생성.
   - 파이토치의 강점 : Define by Run = 즉시 확인 가능->pythonic code. GPU support, Good API and community, 사용 용이. Numpy + AutoGrad + Function. Numpy 구조를 가지는 Tensor 객체로 어레이 표현. 자동 미분 지원, DL 연산 지원, 다양한 형태의 DL을 지원하는 함수와 모델 지원.
 
+---
+
 ### PyTorch Basics
 
 - PyTorch?
@@ -26,6 +28,8 @@
   - nn.functional 모듈을 통해 다양한 수식 변환 지원.
   - 자동 미분 지원. backward()
 
+---
+
 ### PyTorch 프로젝트 구조 이해하기
 
 - Overview
@@ -35,6 +39,8 @@
   - DL 코드도 하나의 프로그램으로, 개발 용이성 확보와 유지보수 향상 필요.
   - 주피터로는 유지보수 향상에 한계가 있음.
   - 다양한 프로젝트 템플릿이 있으므로 사용자 필요에 따라 수정하여 사용.
+
+---
 
 ### 기본 차트의 사용 2-1강
 
@@ -78,6 +84,8 @@
   - 오차 막대를 추가하여 Uncertainty 정보를 추가 가능.
   - Bar 사이 Gap이 0이라면 -> 히스토그램(Histogram).
   - Text 정보(제목, 라벨)를 다양하게 활용하기.
+
+---
 
 ### Generative Models 2
 
