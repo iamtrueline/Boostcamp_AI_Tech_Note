@@ -18,6 +18,8 @@
   - Forward의 결과값 (model의 output=예측치)과 실제값 간의 차이(loss) 에 대해 미분을 수행하고 해당 값으로 파라미터 업데이트.
   - Backward from the scratch : 실제 backward는 Module 단계에서 직접 지정 가능. Module에서 backward와 optimize 오버라이딩, 사용자가 직접 미분 수식을 써야 하는 부담(쓸 일은 없으나 순서는 이해해야한다). 보통 레이어가 많으니까.
 
+---
+
 ### Dataset & Dataloader
 
 - 모델에 데이터를 넣기
