@@ -15,3 +15,4 @@
 🦐 Day 24 : [[Note]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_2/Day24/Note.md "Day 24 Note") [[Bundle]](https://github.com/iamtrueline/Boostcamp_AI_Tech_Note/tree/main/LEVEL1_P_2/Day24 "Day 24") 리포트 작성 및 제출
 
 # :date: Weekly Contents
+
